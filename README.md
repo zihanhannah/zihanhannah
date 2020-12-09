@@ -1,11 +1,10 @@
 ### Hi there👋, My name is Zihan Zhao
 ### Welcome to my GitHub
 
-👯 I’m looking to collaborate on Full-stack web development
-
-🤔 I’m looking for a Entry level Software Developer position at San Antonio, Austin, Houston, Dallas.
-
-📫 Connect with me : zihanhannah@gmail.com. and https://www.linkedin.com/in/zihanhannah/
+- 😄 I completed a 22 week full stack web development program at Codeup in San Antonio!
+- 🔭 I just completed my group Codeup Capstone project, Tryit Diet: https://tryitdiet.xyz/
+- 🤔 I’m looking for a Entry level Software Developer position at San Antonio, Austin, Houston, Dallas.
+- 📫 Connect with me : zihanhannah@gmail.com. and https://www.linkedin.com/in/zihanhannah/
 
 <!--
 **zihanhannah/zihanhannah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
